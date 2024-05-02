@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/trams/Documents/dev-trams/Developer/what_is_flutter_pack/arduino/what_is_flutter_iot_ver",
+      "program": "/Users/trams/Documents/dev-trams/Developer/what_is_flutter_pack/arduino/what_is_flutter_iot_ver/build/Debug/outDebug"
+    }
+  ]
+}
